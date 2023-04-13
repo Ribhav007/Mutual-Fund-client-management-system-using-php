@@ -12,7 +12,7 @@ Software Requirement:
 
 # About this project
 
-Client Management System to manage all the clients of a Mutual Fund distributor. The Mutual Fund distributor can search for any particular client by their Folio No., Name, Phone No. or PAN number and get all the details of the client. 
+Client Management System to manage all the clients of a Mutual Fund distributor. The Mutual Fund distributor can search for any particular client by their Folio No., Name, Phone No. or PAN number and get all the details of the client.Client details can also be deleted  and edited. 
 
 ![all_clients](https://user-images.githubusercontent.com/52748842/231662415-bf06a9bf-9af5-4755-9739-2251941c27f6.png)
 
