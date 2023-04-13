@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+
+.login{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: black solid 5px;
+    border-radius: 25px;
+    height: 400px;
+    width: 400px;
+    font-size: large;
+    font-family: serif;
+    background-color: #ffbf00;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+#log{
+    margin: 20px;
+    border: 2px black solid;
+    font-weight: bold;
+}
